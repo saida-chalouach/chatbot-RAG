@@ -19,3 +19,7 @@ pip install -r requirements.txt
 ```bash 
 python ingest_database.py
 python app.py
+```
+## Result
+ ![Image Alt](result.PNG)
+ 
